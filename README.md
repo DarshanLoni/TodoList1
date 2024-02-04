@@ -1,8 +1,35 @@
-# React + Vite
+# React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Todo List app built using ReactJS and hooks, featuring edit, delete, and tick functionalities.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 1](screensh
+![updatelist](https://github.com/DarshanLoni/TodoListV2/assets/132261307/361deb7d-6772-4d55-b071-94378f8a004d)
+![mainpage](https://github.com/DarshanLoni/TodoListV2/assets/132261307/3cb6a07e-a9c4-4a9f-92a3-d93e2b9efced)
+![addlist](https://github.com/DarshanLoni/TodoListV2/assets/132261307/50d1553a-9a54-476a-9ef9-0383279dafb8)
+ots/screenshot1.png)
+*Caption for Screenshot 1.*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for Screenshot 2.*
+
+## Features
+
+- Add new tasks to the Todo list.
+- Mark tasks as completed by ticking them.
+- Edit existing tasks.
+- Delete tasks from the list.
+
+## Technologies Used
+
+- ReactJS
+- React Hooks (useState, useEffect)
+- CSS for styling
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/react-todo-app.git
